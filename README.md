@@ -1,9 +1,15 @@
 # Today I learned
 
 ## 2020-01-10
+- html
+- css
 
-### python
-hello!
+## 2020-01-10
+- python
+- function
+
+
+
 
 
 
