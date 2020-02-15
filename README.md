@@ -1,12 +1,12 @@
 # Today I learned
-
-## 2020-01-10
-- html
-- css
+These repository is for diverse exercises, practice, reviews etc.
 
 ## 2020-01-11
 - python
 - function
+
+## 2020-02-15
+- COS PRO preparation
 
 
 
