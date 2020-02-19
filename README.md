@@ -1,6 +1,9 @@
 # Today I learned
 These repository is for diverse exercises, practice, reviews etc.
 
+## 2020-0219
+- RNN & seq2seq with keras
+
 ## 2020-02-18
 - linear search & binary search
 
