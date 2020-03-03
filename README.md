@@ -1,6 +1,9 @@
 # Today I learned
 These repository is for diverse exercises, reviews etc.
 
+### 2020-03-03
+- BERT practice with finance-SMS
+
 ### 2020-02-22
 - BERT with PyTorch
 
